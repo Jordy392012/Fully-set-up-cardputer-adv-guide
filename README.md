@@ -3,6 +3,7 @@ How to set up Cardputer adv
 
 #1 go to this website on your computer 
 https://bmorcelli.github.io/Launcher/webflasher.html
+
 #2 plugin your Cardputer to your computer 
 
 #3 click latest release, click M5Stack, click cardputer/Cardputer ADV
