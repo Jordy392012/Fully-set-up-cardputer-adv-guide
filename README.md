@@ -11,7 +11,7 @@ https://bmorcelli.github.io/Launcher/webflasher.html
 #4 click install to Cardputer and select your device
  and wait for the install to finish 
 
-#5 get a microsd card (not required but heaviliy reccomened
+#5 get a microsd card (not required but heaviliy reccomened)
 make sure its 32GB or less, if it is bigger than 32GB
 you must make a partition of your SD card that is 32 GB
 32K cluster size and Fat32. Insert the SD card into the 
